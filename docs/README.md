@@ -41,7 +41,7 @@ winget install pwsh
 https://github.com/PowerShell/PowerShell/releases  
 
 
-![image-20241225000611885](https://github.com/OldSaltFish/ScriptForPowershell/raw/main/img/image-2.png)
+![image-20241225000611885](https://github.com/OldSaltFish/ScriptForPowershell/raw/main/img/image.png)
 
 
 
