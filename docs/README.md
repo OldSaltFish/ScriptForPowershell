@@ -40,8 +40,8 @@ winget install pwsh
 
 https://github.com/PowerShell/PowerShell/releases  
 
-![alt text](img/image.png)
 
+![image-20241225000611885](https://github.com/OldSaltFish/ScriptForPowershell/raw/main/img/image-2.png)
 
 
 
@@ -51,15 +51,15 @@ https://github.com/PowerShell/PowerShell/releases
 
 cursor或者vscode中，似乎默认gbk打开ps1文件，因此我们需要更改默认配置。  
 
-![image-20241225000611885](img/image-20241225000611885.png)
+![image-20241225000611885](https://github.com/OldSaltFish/ScriptForPowershell/raw/main/img/image-20241225000611885.png)
 
 
 
-![image-20241225000810355](img/image-20241225000810355.png)
+![image-20241225000810355](https://github.com/OldSaltFish/ScriptForPowershell/raw/main/img/image-20241225000810355.png)
 
 
 
-![image-20241225000858792](img/image-20241225000858792.png)
+![image-20241225000858792](https://github.com/OldSaltFish/ScriptForPowershell/raw/main/img/image-20241225000858792.png)
 
 ```json
     "[powershell]": {
