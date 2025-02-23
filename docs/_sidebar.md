@@ -5,4 +5,5 @@
 * 命令
 
   * [创建软连接](/createsymbol.md)
+  * [查询端口](/getPort.md)
 
