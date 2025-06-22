@@ -13,4 +13,4 @@ $content = @"
 </html>
 "@
 
-echo $content > $filename
+echo $content > "$filename.html"
